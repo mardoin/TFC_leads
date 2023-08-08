@@ -12,6 +12,7 @@ df = pd.read_csv(url)
 
 # Create the Dash app
 app = dash.Dash(__name__)
+server = app.server
 
 # Define the layout
 app.layout = html.Div([
