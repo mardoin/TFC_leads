@@ -1,0 +1,5 @@
+dash
+pandas
+plotly.graph_objects
+plotly.express
+dash_table
